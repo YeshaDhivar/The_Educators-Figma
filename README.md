@@ -17,6 +17,11 @@ The Educators is an educational website, whose UI/UX is **designed in Figma**, t
 - Chatbot for instant guidance, feedback collection, and support
 - Secure user profile management and multiple payment options
 
+## Prototype Link
+
+Explore the Figma prototype for the website UI/UX at:  
+**[Figma Prototype - The Educators](https://www.figma.com/proto/8fEgh7akvCksvLwSrl7v4Q/The-Educators_HCI?node-id=307-327&scaling=scale-down&page-id=0%3A1&starting-point-node-id=90%3A246)**
+
 ## Website Design
 
 UI/UX prototyping and screen flow are created in **Figma**, ensuring collaborative and high-fidelity workflow.
